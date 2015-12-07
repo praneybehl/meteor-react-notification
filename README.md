@@ -1,4 +1,4 @@
-React-Dropzone
+React-Notification
 ==============
 ### Adding it to your project
 

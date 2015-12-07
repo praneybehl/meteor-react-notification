@@ -1,8 +1,8 @@
 Package.describe({
   name: 'praneybehl:react-notification',
-  version: '3.0.2',
+  version: '3.0.3',
   summary: 'Snackbar style notification component for React packaged for Meteor',
-  git: 'https://github.com/praneybehl/meteor-react-dropzone',
+  git: 'https://github.com/praneybehl/meteor-react-notification',
   documentation: 'README.md'
 });
 
@@ -18,6 +18,6 @@ Package.onUse(function(api) {
 
 
 Npm.depends({
-  "react-notification": "3.0.2",
+  "react-notification": "3.0.3",
   "exposify": "0.5.0"
 });
